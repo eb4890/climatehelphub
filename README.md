@@ -1,13 +1,13 @@
 #Climate Help hub
-====
+
 
 ## Hypothesis
-====
+
 
 It is hard to find out how to help fight climate change.
 
 ## Proposed Solution
-====
+
 
 Climate help hub (tentative title) fill the need of having a central place to go to find out how to help with the climate crisis.
 
